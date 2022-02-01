@@ -1,7 +1,10 @@
 # Ci-Contract
 
 Ci Protocol ERC-20 extended smart contract coded with Solidity  0.5.16 for an hypothetical cryptoasset over Ethereum blockchain<br /><br />
-V.1.1 - Audited
+V.1.1 - Audited<br />
+V.1.2 - Under development<br /> 
+
+Project still in betha phase.
 
 # Version note
 
